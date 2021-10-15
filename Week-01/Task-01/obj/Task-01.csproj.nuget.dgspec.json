@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javad\\Documents\\Programming\\Pragmatech\\Projects-Pragmatech\\New folder (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Projects\\Pragmatech\\Projects-Pragmatech\\PragmatechCsharpProjects\\Week-01\\Task-01\\Task-01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javad\\Documents\\Programming\\Pragmatech\\Projects-Pragmatech\\New folder (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Projects\\Pragmatech\\Projects-Pragmatech\\PragmatechCsharpProjects\\Week-01\\Task-01\\Task-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javad\\Documents\\Programming\\Pragmatech\\Projects-Pragmatech\\New folder (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\javad\\Documents\\Programming\\Pragmatech\\Projects-Pragmatech\\New folder (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Projects\\Pragmatech\\Projects-Pragmatech\\PragmatechCsharpProjects\\Week-01\\Task-01\\Task-01.csproj",
+        "projectName": "Task-01",
+        "projectPath": "C:\\Projects\\Pragmatech\\Projects-Pragmatech\\PragmatechCsharpProjects\\Week-01\\Task-01\\Task-01.csproj",
         "packagesPath": "C:\\Users\\javad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javad\\Documents\\Programming\\Pragmatech\\Projects-Pragmatech\\New folder (2)\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Projects\\Pragmatech\\Projects-Pragmatech\\PragmatechCsharpProjects\\Week-01\\Task-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javad\\AppData\\Roaming\\NuGet\\NuGet.Config",
