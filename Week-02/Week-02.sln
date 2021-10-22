@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task-01", "Task-01\Task-01.csproj", "{55F9CE4E-713F-4CB2-8FA8-929992BBF880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-02", "Task-02\Task-02.csproj", "{D8F22FC8-0715-4D86-8D07-AAB0877BD79F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task-02", "Task-02\Task-02.csproj", "{D8F22FC8-0715-4D86-8D07-AAB0877BD79F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-03", "Task-03\Task-03.csproj", "{A347A6BE-736D-4048-9D7F-B4D9936F7A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task-03", "Task-03\Task-03.csproj", "{A347A6BE-736D-4048-9D7F-B4D9936F7A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-04", "Task-04\Task-04.csproj", "{F2CEE789-A256-4893-AEAF-3140526FD32C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task-04", "Task-04\Task-04.csproj", "{F2CEE789-A256-4893-AEAF-3140526FD32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-2.01", "Task-2.01\Task-2.01.csproj", "{EA7B005E-DD51-434B-8B3C-CE2983693608}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F2CEE789-A256-4893-AEAF-3140526FD32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CEE789-A256-4893-AEAF-3140526FD32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CEE789-A256-4893-AEAF-3140526FD32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7B005E-DD51-434B-8B3C-CE2983693608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7B005E-DD51-434B-8B3C-CE2983693608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7B005E-DD51-434B-8B3C-CE2983693608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7B005E-DD51-434B-8B3C-CE2983693608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
