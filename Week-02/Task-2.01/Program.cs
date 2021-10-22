@@ -30,7 +30,7 @@
                         Console.WriteLine("Enter group number: ");
                         string groupNumber = Console.ReadLine();
                         Console.WriteLine("Enter age: ");
-                        int age = Convert.ToInt32(Console.ReadLine());
+                        byte age = Convert.ToByte(Console.ReadLine());
 
                         students[i] = new Student(fullName, groupNumber, age);
                     }
