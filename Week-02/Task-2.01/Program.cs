@@ -24,7 +24,6 @@ namespace Task_2._01
             int studentCount = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter student details\n");
             Student[] students = new Student[studentCount];
-            ArrayList students1 = new ArrayList();
             try
             {
                 for (int i = 0; i < studentCount; i++)
