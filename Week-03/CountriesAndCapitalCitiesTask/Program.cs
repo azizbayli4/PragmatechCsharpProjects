@@ -30,7 +30,7 @@ namespace CountriesAndCapitalCitiesTask
             {
                 Console.WriteLine("\nEnter country name to find the capital of it: \nTo print all list enter 'all'");
                 string countryName = Console.ReadLine();
-                if (countryName == "all")
+                if (countryName.ToLower() == "all")
                 {
                     foreach (var item in capitals)
                     {
