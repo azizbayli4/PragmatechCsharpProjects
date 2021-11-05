@@ -46,7 +46,6 @@ namespace OOP
                 catch (Exception)
                 {
                     Console.WriteLine("\nEMAIL IS NOT VALID");
-                    //throw new ArgumentException("EMAIL IS NOT VALID");
                 }
             }
 
@@ -125,16 +124,17 @@ namespace OOP
         }
         public static void ShowInfo()
         {
-            Console.WriteLine("Fullname daxil edin: ");
+            Console.WriteLine("Enter Full name: ");
             string fullname = Console.ReadLine();
 
-            Console.WriteLine("\nEmail daxil edin: ");
+            Console.WriteLine("\nEnter email: ");
             string email = Console.ReadLine();
 
-            Console.WriteLine("\npassword daxil edin: ");
+            Console.WriteLine("\nEnter password: ");
             string password = Console.ReadLine();
 
             user.Add(new User(fullname, email, password));
+
             foreach (var item in user)
             {
                 Console.WriteLine($"\nFullName:{item.fullname} email:{item.email}");
