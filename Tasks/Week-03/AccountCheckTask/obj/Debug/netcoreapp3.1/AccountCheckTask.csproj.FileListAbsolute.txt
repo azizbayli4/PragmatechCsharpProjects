@@ -1,0 +1,14 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\bin\Debug\netcoreapp3.1\AccountCheckTask.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\bin\Debug\netcoreapp3.1\AccountCheckTask.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\bin\Debug\netcoreapp3.1\AccountCheckTask.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\bin\Debug\netcoreapp3.1\AccountCheckTask.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\bin\Debug\netcoreapp3.1\AccountCheckTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\bin\Debug\netcoreapp3.1\AccountCheckTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\AccountCheckTask\obj\Debug\netcoreapp3.1\AccountCheckTask.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\bin\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\bin\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\bin\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\bin\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\bin\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\bin\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Week-03\CountriesAndCapitalCitiesTask\obj\Debug\netcoreapp3.1\CountriesAndCapitalCitiesTask.genruntimeconfig.cache
