@@ -7,10 +7,10 @@ namespace Task01_Student
         static void Main(string[] args)
         {
             Student student = new Student("Ali", "Aliyev", 38);
-            student.Counter();
-            Console.WriteLine("---------------");
             Student student1 = new Student("Lale", "Velili", 52);
-            student1.Counter();
+            Student student3 = new Student("Lale2", "Velili", 25);
+            Student student4 = new Student("Lale3", "Velili", 44);
+            Student.Counter();
         }
     }
 
@@ -19,8 +19,7 @@ namespace Task01_Student
         public string Name { get; }
         public string Surname { get; }
         public int Age { get; }
-        public static int num;
-        private int Total;
+        private static int num;
 
         public Student(string name, string surname, int age)
         {
@@ -28,11 +27,11 @@ namespace Task01_Student
             Surname = surname;
             Age = age;
 
-            Total = ++num;
+            ++num;
         }
-        public void Counter()
+        public static void Counter()
         {
-            Console.WriteLine($"Initialized {Total} time(s)");
+            Console.WriteLine($"Initialized {num} time(s)");
         }
     }
 }
