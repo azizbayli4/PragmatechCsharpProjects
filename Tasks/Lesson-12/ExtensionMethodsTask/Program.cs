@@ -1,166 +1,96 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace Task
+
+namespace ExtensionMethodsTask
 {
-    class Program
+    static class ExtentioMethods
     {
-        static void Main(string[] args)
+        class Program
         {
-            Console.WriteLine("Hello World!");
-            string password = "adssddds202";
-            int number = 25;
-            My.NoteOutput($"Resault => {password.IsContainsDigit()}");
-            My.NoteOutput($"Resault => {number.IsOdd()}");
-            My.NoteOutput($"Resault => {number.IsEven()}");
-            foreach (var item in password.GetValueIndexes('d'))
+            static void Main(string[] args)
             {
-                My.NoteOutput($"Resault => {item}");
-            }
+                int[] arr = { 1, 2, 3, 4, 5, 56, 1, 5, 1, 2, 1 };
+                string str = "sldlsdlsld";
 
-            List<int> numbs = new List<int>
-            {
-                5,
-                6,
-                5,
-                7,
-                5
-            };
-
-
-            foreach (var item in numbs.GetValueIndexes(5))
-            {
-                My.NoteOutput($"Resault => {item}");
-            }
-
-
-
-        }
-    }
-    class IsNotZeroCountException : Exception
-    {
-        private readonly string _message;
-        public IsNotZeroCountException(string message)
-        {
-            this._message = message;
-        }
-
-        public override string Message => this._message;
-    }
-    public static class ExtentionMethods
-    {
-        public static bool IsOdd(this int number) => number % 2 == 1;
-        public static bool IsEven(this int number) => number % 2 == 0;
-
-        public static List<int> GetValueIndexes(this List<int> number_list, int number)
-        {
-            List<int> num_lists = new List<int>();
-
-            for (int i = 0; i < number_list.Count; i++)
-            {
-                if (number_list[i] == number)
+                foreach (var item in arr.GetValueIndexes(1))
                 {
-                    num_lists.Add(i);
-                }
-            }
-
-            return num_lists;
-        }
-
-        public static List<int> GetValueIndexes(this string str, char ch)
-        {
-            List<int> number_list = new List<int>();
-
-            for (int i = 0; i < str.Length; i++)
-            {
-                if (str[i] == ch)
-                {
-                    number_list.Add(i);
-                }
-            }
-
-            return number_list;
-        }
-
-        public static bool IsContainsDigit(this string str)
-        {
-            bool isContainDigit = false;
-            foreach (var item in str)
-            {
-                if (char.IsDigit(item))
-                {
-                    isContainDigit = true;
-                    break;
+                    Console.Write(item + ",");
                 }
 
-            }
+                Console.WriteLine("\n#####################################");
 
-            return isContainDigit;
-        }
-
-
-    }
-    public static class My
-    {
-        public static int ConsInputInt()
-        {
-            int number = 0;
-            bool break_loop;
-            do
-            {
-                try
+                foreach (var item in str.GetValueIndexes('l'))
                 {
-                    Console.Write("Input a number : <<<<<< : ");
-                    number = Convert.ToInt32(Console.ReadLine());
-                    break_loop = false;
+                    Console.Write(item +",");
                 }
-                catch (Exception)
-                {
-                    Console.WriteLine("You don't use full number and don't use number !");
-                    break_loop = true;
-                }
+                Console.WriteLine("\n#####################################");
+                
+                Console.WriteLine(IsOdd(1));
+                Console.WriteLine("#####################################");
 
-            } while (break_loop);
+                Console.WriteLine(IsEven(1));
+                Console.WriteLine("#####################################");
 
-            return number;
-        }
-
-        public static string ConsInputString()
-        {
-            Console.Write("Input text : <<<<<< : ");
-            string str = Console.ReadLine();
-
-            return str;
-        }
-
-        public static bool IsContinueLoop()
-        {
-            bool is_continue;
-            Console.Write("<<<<<< Are you continue or exit => (Any case / n ) <<< : ");
-            string str = Console.ReadLine();
-            if (str == "n")
-            {
-                is_continue = true;
+                Console.WriteLine(IsContainsDigit("sa12lam"));
             }
+        }
+
+        public static bool IsOdd(this int number)
+        {
+            if (number % 2 != 0 && number != 0)
+                return true;
             else
+                return false;
+        }
+
+        public static bool IsEven(this int number)
+        {
+            if (number % 2 == 0)
+                return true;
+            else
+                return false;
+        }
+
+        public static bool IsContainsDigit(this string text)
+        {
+            for (int i = 0; i < text.Length; i++)
             {
-                is_continue = false;
+                if (Convert.ToInt32(text[i]) > 47 && Convert.ToInt32(text[i]) < 58)
+                {
+                    return true;
+                }
             }
-
-            return is_continue;
+            return false;
         }
 
-        public static void NoteHead(string str)
+        public static List<int> GetValueIndexes(this string givenStr, char givenChr)
         {
-            Console.WriteLine($"\n---------- >>>>>>>>>> {str} <<<<<<<<<<< ----------");
-        }
-        public static void NoteInput(string str)
-        {
-            Console.WriteLine($"<<<<<<<<<<<<< : {str}");
-        }
-        public static void NoteOutput(string str)
-        {
-            Console.WriteLine($">>>>>>> : {str}");
+            List<int> indexes = new();
+            for (int i = 0; i < givenStr.Length; i++)
+            {
+                if (givenStr[i] == givenChr)
+                {
+                    indexes.Add(i);
+                }
+            }
+            if (indexes.Count != 0)
+                return indexes;
+            return null;
         }
 
+        public static List<int> GetValueIndexes(this int[] arr, int num)
+        {
+            List<int> indexes = new();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] == num)
+                {
+                    indexes.Add(i);
+                }
+            }
+            if (indexes.Count != 0)
+                return indexes;
+            return null;
+        }
     }
 }
