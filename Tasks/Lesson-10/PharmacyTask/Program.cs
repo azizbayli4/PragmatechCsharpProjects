@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp38
+namespace PharmacyTask
 {
     class Program
     {
