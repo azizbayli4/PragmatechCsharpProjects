@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson_10
+namespace PharmacyTask
 {
     class Program
     {
