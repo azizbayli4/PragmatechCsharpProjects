@@ -7,7 +7,7 @@ namespace Task_04
         static void Main(string[] args)
         {
             //4)Remove duplicate data algoritmini yazin input: csharpcorner, output: csharpone c
-            Console.WriteLine("Enter a Word: ");
+            Console.WriteLine("Enter a word: ");
             string str = Console.ReadLine();
 
             //str=str.ToLower(); 
@@ -20,7 +20,7 @@ namespace Task_04
                     str2 += str[i];
                 }
             }
-            Console.WriteLine(str2);
+            Console.WriteLine("\nDublicate data removed:\n"+ str2);
         }
     }
 }

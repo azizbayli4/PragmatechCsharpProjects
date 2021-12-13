@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace StudentsAndGroupsTask
+namespace StudentsAndGroupClass_HomeTask
 {
     class Program
     {
@@ -90,7 +89,7 @@ namespace StudentsAndGroupsTask
             string name = Console.ReadLine();
             Console.WriteLine("\nPlease, enter student surname");
             string surname = Console.ReadLine();
-            if(String.IsNullOrEmpty(name) ||String.IsNullOrEmpty(surname))
+            if (String.IsNullOrEmpty(name) || String.IsNullOrEmpty(surname))
             {
                 Console.WriteLine($"{name} or {surname} is null or emty");
             }
@@ -290,5 +289,3 @@ namespace StudentsAndGroupsTask
         }
     }
 }
-
-

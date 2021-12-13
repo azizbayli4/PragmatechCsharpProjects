@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TaskQueue
+namespace QueueTask
 {
     class Program
     {
@@ -19,7 +19,7 @@ namespace TaskQueue
             strQ.Enqueue("Abc8");
             strQ.Enqueue("Abc9");
             strQ.Enqueue("Abc10");
-            
+
             foreach (var item in strQ)
             {
                 Console.WriteLine(item);

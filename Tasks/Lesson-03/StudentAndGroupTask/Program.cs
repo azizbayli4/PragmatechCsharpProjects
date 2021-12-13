@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections;
 
-namespace Task_2._01
+namespace StudentAndGroupTask
 {
     class Program
     {
@@ -37,27 +36,26 @@ namespace Task_2._01
 
                     Student student = new Student(fullName, groupNumber, age);
                     students[i] = student;
+
+                    Console.Write("\n\nEnter the group number to get count of students: ");
+                    string groupNo = Console.ReadLine();
+                    Console.WriteLine($"In group {groupNo } studies {StudentsCount(groupNo, students)} student(s)");
+
+                    Console.Write("\n\nWhich student you wanna get birth year, eneter full name: ");
+                    string enteredStudent = Console.ReadLine();
+
+                    for (int j = 0; j < students.Length; j++)
+                    {
+                        if (students[j].fullName == enteredStudent)
+                        {
+                            Console.WriteLine($"{students[i].fullName}'s birthyear is {students[i].GetBirthYear()}");
+                        }
+                    }
                 }
             }
             catch (Exception)
             {
                 Console.WriteLine("You entered invalid data");
-            }
-
-
-            Console.Write("\n\nEnter the group number to get count of students: ");
-            string groupNo = Console.ReadLine();
-            Console.WriteLine($"In group {groupNo } studies {StudentsCount(groupNo, students)} student(s)");
-
-            Console.Write("\n\nWhich student you wanna get birth year, eneter full name: ");
-            string enteredStudent = Console.ReadLine();
-
-            for (int i = 0; i < students.Length; i++)
-            {
-                if (students[i].fullName == enteredStudent)
-                {
-                    Console.WriteLine($"{students[i].fullName}'s birthyear is {students[i].GetBirthYear()}");
-                }
             }
         }
     }
@@ -79,6 +77,4 @@ namespace Task_2._01
             return date.Year - this.age;
         }
     }
-
 }
-
