@@ -1,61 +1,63 @@
+create database Academy --(create db)
 
---create database Academy --(create db)
+exec sp_helpdb Academy --(get information about database)
 
---drop database Academy --(delete db)
+drop database Academy --(delete db)
 
---use Academy
+use Academy
 
-----(Create Table)
+--(Create Table)
 
---create table Student
---(
---Id int identity,
---Fullname nvarchar(25),
---GroupOfStudent nvarchar(10),
---Birthdate date,
---Grade nvarchar(15)
---)
+create table Student
+(
+Id int identity,
+Fullname nvarchar(25),
+GroupOfStudent nvarchar(10),
+Birthdate date,
+Grade nvarchar(15)
+)
 
-----Add data to table
+--Add data to table
 
---INSERT INTO dbo.Student (Fullname, GroupOfStudent, Birthdate, Grade)
---values
---('Eli','600.18A','1995-10-12','Forth'),
---('Tural','600.19A','1999-05-11','Third'),
---('John','622.19E','2000-9-19','Second'),
---('Samir','610.20R','2000-11-12','First')
-
-
-
---select Fullname,GroupOfStudent from dbo.Student
-
---SELECT * FROM Student ORDER BY Id DESC
-
---SELECT * FROM Student WHERE GroupOfStudent like '%.19%';
-
---select * from dbo.Student 
---where Fullname='Tural' and Grade='Third'
-
---select * from dbo.Student where Fullname='John' or Grade='First'
-
---select * from dbo.Student where Id in(2,5)
-
---select * from dbo.Student where Id between 1 and 3
-
---select *from dbo.Student where GroupOfStudent = '622.19E'
-
---select top(3) *from dbo.Student
-
---select *from dbo.Student order by Id offset 2 row 
-
---select *from dbo.Student order by Id offset 2 row fetch first 2  rows only
+INSERT INTO dbo.Student (Fullname, GroupOfStudent, Birthdate, Grade) --(we can also don't define order inside "()") 
+VALUES
+('Eli','600.18A','1995-10-12','Forth'),
+('Tural','600.19A','1999-05-11','Third'),
+('John','622.19E','2000-9-19','Second'),
+('Samir','610.20R','2000-11-12','First')
 
 
---update Student
---set Fullname = 'Tural Eyvazov'
---where Id = 2
+drop table Student --(delete table)
 
---DELETE FROM Student WHERE Fullname = 'John'
+SELECT Fullname,GroupOfStudent FROM dbo.Student
 
---DELETE Student WHERE Id in (1,4)
+SELECT * FROM Student ORDER BY Id DESC
+
+SELECT * FROM Student WHERE GroupOfStudent like '%.19%';
+
+SELECT * FROM dbo.Student 
+where Fullname='Tural' and Grade='Third'
+
+SELECT * FROM dbo.Student WHERE Fullname='John' or Grade='First'
+
+SELECT * FROM dbo.Student WHERE Id in(2,4)
+
+SELECT * FROM dbo.Student WHERE Id between 1 and 3
+
+SELECT *FROM dbo.Student WHERE GroupOfStudent = '622.19E'
+
+SELECT top(3) *FROM dbo.Student
+
+SELECT *FROM dbo.Student ORDER BY Id offset 2 ROW 
+
+SELECT *FROM dbo.Student ORDER BY Id offset 2 ROW FETCH FIRST 2  ROWS only
+
+
+update Student
+SET Fullname = 'Tural Eyvazov'
+WHERE Id = 2
+
+DELETE FROM Student WHERE Fullname = 'John'
+
+DELETE Student WHERE Id in (1,5)
 
