@@ -24,4 +24,21 @@ namespace AspNetCsharp03.Models
         }
 
     }
+
+    //public abstract class X
+    //{
+    //    public string Name { get; set; }
+    //    public X(string nm)
+    //    {
+    //        Name = nm;
+    //    }
+    //}
+
+    //public class Child : X
+    //{
+    //    public Child(string opt) : base(opt)
+    //    {
+
+    //    }
+    //}
 }

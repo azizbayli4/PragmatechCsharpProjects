@@ -29,12 +29,5 @@ namespace AspNetCsharp03.Controllers
         {
             return View();
         }
-
-            public IActionResult Privacy()
-        {
-            return View();
-        }
-
-       
     }
 }
