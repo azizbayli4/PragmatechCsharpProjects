@@ -18,27 +18,9 @@ namespace AspNetCsharp03.Models
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Slider>().HasData(
-            new Slider { Id = 1, Image = "slide1.jpg", ClothType = "on Jackets", DisCount = "Get up to 30% off", Price = 199, TrendWord = "Winter Fashion Trends" },
-            new Slider { Id = 2, Image = "slide2.jpg", ClothType = "on Coat", DisCount = "Get up to 20% off", Price = 300, TrendWord = "Season Fashion Trends" }
+            new Slider { Id = 1, Image = "slide1.jpg", ClothesType = "on Jackets", DisCount = "Get up to 30% off", Price = 199, TrendWord = "Winter Fashion Trends" },
+            new Slider { Id = 2, Image = "slide2.jpg", ClothesType = "on Coat", DisCount = "Get up to 20% off", Price = 300, TrendWord = "Season Fashion Trends" }
             );
         }
-
     }
-
-    //public abstract class X
-    //{
-    //    public string Name { get; set; }
-    //    public X(string nm)
-    //    {
-    //        Name = nm;
-    //    }
-    //}
-
-    //public class Child : X
-    //{
-    //    public Child(string opt) : base(opt)
-    //    {
-
-    //    }
-    //}
 }

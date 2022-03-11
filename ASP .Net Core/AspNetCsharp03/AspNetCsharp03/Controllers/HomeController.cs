@@ -1,5 +1,7 @@
 ﻿using AspNetCsharp03.Models;
+using AspNetCsharp03.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -18,16 +20,21 @@ namespace AspNetCsharp03.Controllers
             dbContext = _dbContext;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var category= dbContext.Categories.ToList();
+            var vM = new HomeVM
+            {
+                Categories = await dbContext.Categories.ToListAsync(),
+                Sliders = await dbContext.Sliders.ToListAsync()
+            };
 
-            return View(category);
+            return View(vM);
         }
 
         public IActionResult About()
         {
             return View();
         }
+       
     }
 }

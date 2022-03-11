@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AspNetCsharp03.Migrations
 {
     [DbContext(typeof(PortoDbContext))]
-    [Migration("20220225084203_categoryandslideradded")]
-    partial class categoryandslideradded
+    [Migration("20220311110332_onmodelcreating")]
+    partial class onmodelcreating
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -37,8 +37,8 @@ namespace AspNetCsharp03.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(15)")
-                        .HasMaxLength(15);
+                        .HasColumnType("nvarchar(25)")
+                        .HasMaxLength(25);
 
                     b.HasKey("Id");
 
@@ -52,7 +52,7 @@ namespace AspNetCsharp03.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("ClothType")
+                    b.Property<string>("ClothesType")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("DisCount")
@@ -75,7 +75,7 @@ namespace AspNetCsharp03.Migrations
                         new
                         {
                             Id = 1,
-                            ClothType = "on Jackets",
+                            ClothesType = "on Jackets",
                             DisCount = "Get up to 30% off",
                             Image = "slide1.jpg",
                             Price = 199,
@@ -84,7 +84,7 @@ namespace AspNetCsharp03.Migrations
                         new
                         {
                             Id = 2,
-                            ClothType = "on Coat",
+                            ClothesType = "on Coat",
                             DisCount = "Get up to 20% off",
                             Image = "slide2.jpg",
                             Price = 300,

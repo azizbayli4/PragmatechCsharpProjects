@@ -3,16 +3,14 @@ using AspNetCsharp03.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AspNetCsharp03.Migrations
 {
     [DbContext(typeof(PortoDbContext))]
-    [Migration("20220204182432_slideAdded")]
-    partial class slideAdded
+    partial class PortoDbContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -37,8 +35,8 @@ namespace AspNetCsharp03.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(15)")
-                        .HasMaxLength(15);
+                        .HasColumnType("nvarchar(25)")
+                        .HasMaxLength(25);
 
                     b.HasKey("Id");
 
@@ -52,7 +50,7 @@ namespace AspNetCsharp03.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("ClothType")
+                    b.Property<string>("ClothesType")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("DisCount")
@@ -70,6 +68,26 @@ namespace AspNetCsharp03.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Sliders");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ClothesType = "on Jackets",
+                            DisCount = "Get up to 30% off",
+                            Image = "slide1.jpg",
+                            Price = 199,
+                            TrendWord = "Winter Fashion Trends"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ClothesType = "on Coat",
+                            DisCount = "Get up to 20% off",
+                            Image = "slide2.jpg",
+                            Price = 300,
+                            TrendWord = "Season Fashion Trends"
+                        });
                 });
 #pragma warning restore 612, 618
         }

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AspNetCsharp03.Migrations
 {
     [DbContext(typeof(PortoDbContext))]
-    [Migration("20220225083128_initial")]
-    partial class initial
+    [Migration("20220311110158_portoecommerce")]
+    partial class portoecommerce
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -37,8 +37,8 @@ namespace AspNetCsharp03.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(15)")
-                        .HasMaxLength(15);
+                        .HasColumnType("nvarchar(25)")
+                        .HasMaxLength(25);
 
                     b.HasKey("Id");
 
@@ -52,7 +52,7 @@ namespace AspNetCsharp03.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("ClothType")
+                    b.Property<string>("ClothesType")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("DisCount")
@@ -70,26 +70,6 @@ namespace AspNetCsharp03.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Sliders");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            ClothType = "on Jackets",
-                            DisCount = "Get up to 30% off",
-                            Image = "slide1.jpg",
-                            Price = 199,
-                            TrendWord = "Winter Fashion Trends"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            ClothType = "on Coat",
-                            DisCount = "Get up to 20% off",
-                            Image = "slide2.jpg",
-                            Price = 300,
-                            TrendWord = "Season Fashion Trends"
-                        });
                 });
 #pragma warning restore 612, 618
         }
