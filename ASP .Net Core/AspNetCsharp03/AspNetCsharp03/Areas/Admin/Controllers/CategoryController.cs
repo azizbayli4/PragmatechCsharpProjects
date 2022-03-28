@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AspNetCsharp03.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class DashboardController : Controller
+    public class CategoryController : Controller
     {
         public IActionResult Index()
         {

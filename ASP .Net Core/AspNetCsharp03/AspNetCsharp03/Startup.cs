@@ -32,6 +32,7 @@ namespace AspNetCsharp03
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
 
             });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +49,7 @@ namespace AspNetCsharp03
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
+            app.UseAuthentication();
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -62,8 +64,10 @@ namespace AspNetCsharp03
 
                 endpoints.MapControllerRoute(
                    name: "areas",
-                   pattern: "{area:exists}) /{ controller = DashBoard}/{ action = Index}/{ id ?}");
+                   pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
             });
+
+          
         }
     }
 }
