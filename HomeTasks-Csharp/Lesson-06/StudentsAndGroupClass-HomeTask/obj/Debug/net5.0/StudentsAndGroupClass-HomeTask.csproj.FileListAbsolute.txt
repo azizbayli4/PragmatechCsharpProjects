@@ -1,0 +1,16 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\StudentsAndGroupClass-HomeTask.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\StudentsAndGroupClass-HomeTask.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\StudentsAndGroupClass-HomeTask.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\StudentsAndGroupClass-HomeTask.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\StudentsAndGroupClass-HomeTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\ref\StudentsAndGroupClass-HomeTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\bin\Debug\net5.0\StudentsAndGroupClass-HomeTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\ref\StudentsAndGroupClass-HomeTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-06\StudentsAndGroupClass-HomeTask\obj\Debug\net5.0\StudentsAndGroupClass-HomeTask.genruntimeconfig.cache

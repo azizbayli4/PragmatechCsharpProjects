@@ -1,0 +1,16 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\AccountCheckTask.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\AccountCheckTask.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\AccountCheckTask.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\AccountCheckTask.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\AccountCheckTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\ref\AccountCheckTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\bin\Debug\net5.0\AccountCheckTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\ref\AccountCheckTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-04\AccountCheckTask\obj\Debug\net5.0\AccountCheckTask.genruntimeconfig.cache

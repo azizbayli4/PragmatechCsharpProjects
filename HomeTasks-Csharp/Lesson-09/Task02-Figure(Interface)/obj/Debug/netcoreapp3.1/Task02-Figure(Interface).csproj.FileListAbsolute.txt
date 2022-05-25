@@ -1,0 +1,14 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\bin\Debug\netcoreapp3.1\Task02-Figure(Interface).exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\bin\Debug\netcoreapp3.1\Task02-Figure(Interface).deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\bin\Debug\netcoreapp3.1\Task02-Figure(Interface).runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\bin\Debug\netcoreapp3.1\Task02-Figure(Interface).runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\bin\Debug\netcoreapp3.1\Task02-Figure(Interface).dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\bin\Debug\netcoreapp3.1\Task02-Figure(Interface).pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task02-Figure(Interface)\obj\Debug\netcoreapp3.1\Task02-Figure(Interface).genruntimeconfig.cache

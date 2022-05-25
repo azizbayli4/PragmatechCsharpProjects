@@ -1,0 +1,16 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ExtensionMethodsTask.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ExtensionMethodsTask.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ExtensionMethodsTask.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ExtensionMethodsTask.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ExtensionMethodsTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ref\ExtensionMethodsTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\bin\Debug\net5.0\ExtensionMethodsTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ref\ExtensionMethodsTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-12\ExtensionMethodsTask\obj\Debug\net5.0\ExtensionMethodsTask.genruntimeconfig.cache

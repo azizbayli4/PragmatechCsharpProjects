@@ -1,0 +1,14 @@
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.exe
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.deps.json
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.runtimeconfig.json
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.runtimeconfig.dev.json
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.dll
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.pdb
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.csproj.AssemblyReference.cache
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.AssemblyInfoInputs.cache
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.AssemblyInfo.cs
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.csproj.CoreCompileInputs.cache
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.dll
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.pdb
+C:\Projects\C#-test\TaskAtLesson-8.11.21\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.genruntimeconfig.cache

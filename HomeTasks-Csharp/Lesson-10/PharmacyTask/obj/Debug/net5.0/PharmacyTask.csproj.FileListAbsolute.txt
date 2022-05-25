@@ -1,0 +1,5 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-10\PharmacyTask\obj\Debug\net5.0\PharmacyTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-10\PharmacyTask\obj\Debug\net5.0\PharmacyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-10\PharmacyTask\obj\Debug\net5.0\PharmacyTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-10\PharmacyTask\obj\Debug\net5.0\PharmacyTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-10\PharmacyTask\obj\Debug\net5.0\PharmacyTask.csproj.CoreCompileInputs.cache

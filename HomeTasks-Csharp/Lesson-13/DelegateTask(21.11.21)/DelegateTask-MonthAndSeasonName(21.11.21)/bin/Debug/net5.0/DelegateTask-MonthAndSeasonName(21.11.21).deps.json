@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DelegateTask-MonthAndSeasonName(21.11.21)/1.0.0": {
+        "runtime": {
+          "DelegateTask-MonthAndSeasonName(21.11.21).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateTask-MonthAndSeasonName(21.11.21)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

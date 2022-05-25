@@ -1,0 +1,14 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\bin\Debug\netcoreapp3.1\Task01-Student.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\bin\Debug\netcoreapp3.1\Task01-Student.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\bin\Debug\netcoreapp3.1\Task01-Student.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\bin\Debug\netcoreapp3.1\Task01-Student.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\bin\Debug\netcoreapp3.1\Task01-Student.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\bin\Debug\netcoreapp3.1\Task01-Student.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task01-Student\obj\Debug\netcoreapp3.1\Task01-Student.genruntimeconfig.cache

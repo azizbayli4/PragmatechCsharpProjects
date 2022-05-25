@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task-Accaunt_OOP/1.0.0": {
+        "runtime": {
+          "Task-Accaunt_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task-Accaunt_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\StudentAndGroupTask.exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\StudentAndGroupTask.deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\StudentAndGroupTask.runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\StudentAndGroupTask.runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\StudentAndGroupTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\ref\StudentAndGroupTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\bin\Debug\net5.0\StudentAndGroupTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\ref\StudentAndGroupTask.dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-03\StudentAndGroupTask\obj\Debug\net5.0\StudentAndGroupTask.genruntimeconfig.cache

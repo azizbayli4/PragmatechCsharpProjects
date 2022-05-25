@@ -1,0 +1,14 @@
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\bin\Debug\netcoreapp3.1\Task03-Calculator(Interface).exe
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\bin\Debug\netcoreapp3.1\Task03-Calculator(Interface).deps.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\bin\Debug\netcoreapp3.1\Task03-Calculator(Interface).runtimeconfig.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\bin\Debug\netcoreapp3.1\Task03-Calculator(Interface).runtimeconfig.dev.json
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\bin\Debug\netcoreapp3.1\Task03-Calculator(Interface).dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\bin\Debug\netcoreapp3.1\Task03-Calculator(Interface).pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).csproj.AssemblyReference.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).AssemblyInfoInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).AssemblyInfo.cs
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).csproj.CoreCompileInputs.cache
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).dll
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).pdb
+C:\Projects\Pragmatech\Projects-Pragmatech\PragmatechCsharpProjects\Tasks\Lesson-8\Task03-Calculator(Interface)\obj\Debug\netcoreapp3.1\Task03-Calculator(Interface).genruntimeconfig.cache
